@@ -1,0 +1,13 @@
+.tile-set {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 95px;
+}
+
+.tile {
+    min-width: 15em;
+    width: 25%;
+    padding: 0.5em;
+    margin: 0.5em;
+}
